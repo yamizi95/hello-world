@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
-Hello my name is Nur Hidayah who is a beauty with a brain.
+Hello everybody !
+My name is Nur Hidayah who is a beauty with a brain.
 My ambition is to be a rich women.
